@@ -1,0 +1,140 @@
+[
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-01",
+        "correlativo": 949
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-08",
+        "correlativo": 986
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-08",
+        "correlativo": 1005
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-08",
+        "correlativo": 14
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-14",
+        "correlativo": 1030
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-14",
+        "correlativo": 13
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-14",
+        "correlativo": 1078
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-15",
+        "correlativo": 20
+    },
+    {
+        "tipo": "INGRESO",
+        "clave": "R3",
+        "fecha": "2019-01-15",
+        "correlativo": 4
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-15",
+        "correlativo": 1242
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-15",
+        "correlativo": 23
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-15",
+        "correlativo": 1251
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-16",
+        "correlativo": 18
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-16",
+        "correlativo": 1278
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-16",
+        "correlativo": 1279
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-16",
+        "correlativo": 26
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-16",
+        "correlativo": 27
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-17",
+        "correlativo": 29
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-17",
+        "correlativo": 31
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-18",
+        "correlativo": 1300
+    },
+    {
+        "tipo": "EGRESO",
+        "clave": "H4",
+        "fecha": "2019-01-18",
+        "correlativo": 30
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-21",
+        "correlativo": 1406
+    },
+    {
+        "tipo": "DIARIO",
+        "clave": "XX",
+        "fecha": "2019-01-23",
+        "correlativo": 1401
+    }
+]
